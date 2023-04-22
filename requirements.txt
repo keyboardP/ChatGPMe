@@ -1,0 +1,3 @@
+chromadb==0.3.21
+langchain==0.0.146
+python-dotenv==1.0.0
